@@ -11,3 +11,11 @@ Just fun This code as service and forget About Overheating
 
 <img align="centre" alt="Schematic" src="https://user-images.githubusercontent.com/42748272/100542054-e7feed80-326d-11eb-9144-130fd093f6bc.jpg"/>
 
+**Running as a service** 
+
+Place the "FanCon.py" file in the home/pi/ directory and then copy the fancon.service file to /etc/systemd/system/.
+Then Open Terminal And Type in the following Command:
+
+> sudo systemctl enable fancon.service
+
+

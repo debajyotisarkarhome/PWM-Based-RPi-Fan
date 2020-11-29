@@ -1,0 +1,11 @@
+[Unit]
+Description=FanCon
+After=network-up.target
+[Service]
+WorkingDirectory=/home/pi
+User=pi
+Type=idle
+ExecStart=/usr/bin/python3 /home/pi/FanCon.py
+Restart=always
+[Install]
+WantedBy=multi-user.target
