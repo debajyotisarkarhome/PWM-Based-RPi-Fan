@@ -1,3 +1,4 @@
+# PWM Based RPi Fan
 A really nifty script for Optimal Cooling on the Raspberry Pi Based on Real Time Temperature Values From Raspberry Pi 4 (2020).
 
 Just fun This code as service and forget About Overheating
