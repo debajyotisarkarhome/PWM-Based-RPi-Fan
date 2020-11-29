@@ -9,5 +9,5 @@ Just fun This code as service and forget About Overheating
 
 **Wiring The Fan :**
 
-[<img align="centre" alt="Schematic" src="https://user-images.githubusercontent.com/42748272/100542054-e7feed80-326d-11eb-9144-130fd093f6bc.jpg"]
+[<img align="centre" alt="Schematic" src="https://user-images.githubusercontent.com/42748272/100542054-e7feed80-326d-11eb-9144-130fd093f6bc.jpg"/>]
 
